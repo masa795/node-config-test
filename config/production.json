@@ -1,0 +1,13 @@
+{
+    "websocket" : {
+		"port" : 7777
+	},
+
+	"logging" : true,
+
+    "const" : {
+		"env" : "prod",
+		"ver" : "8888"
+	},
+
+}
